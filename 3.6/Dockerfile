@@ -17,6 +17,6 @@ ONBUILD RUN poetry install -n
 
 # using this file
 # ~~~~~~~~~~~~~~~
-# FROM etiennenapoleone/docker-poetry
+# FROM etiennenapoleone/docker-python-poetry
 # COPY . /app
 # CMD python3 main.py
