@@ -2,7 +2,7 @@
 
 [Docker Hub](https://hub.docker.com/r/etiennenapoleone/docker-poetry/)
 
-Docker image with python and poetry dependency management.
+Python Docker image with poetry as dependency manager.
 
 ## Supported tags
 
