@@ -1,5 +1,7 @@
 # docker-python-poetry
 
+**warning:** this is unmaintained and those images use the deprecated `ONBUILD`. 
+
 [Docker Hub](https://hub.docker.com/r/etiennenapoleone/docker-python-poetry/)
 
 Python Docker image with poetry as dependency manager.
